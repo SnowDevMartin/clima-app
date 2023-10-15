@@ -1,5 +1,5 @@
 import { useState, createContext, useEffect } from 'react';
-//import axios from 'axios';
+//import axios from 'axios'; // Para hacer peticiones HTTP
 
 const ClimaContext = createContext();
 
