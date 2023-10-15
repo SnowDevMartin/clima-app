@@ -1,5 +1,5 @@
 import { useState, createContext, useEffect } from 'react';
-//import axios from 'axios'; // No se usa de momento
+//import axios from 'axios';
 
 const ClimaContext = createContext();
 
