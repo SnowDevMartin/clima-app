@@ -1,4 +1,4 @@
-import '../Styles/Spinner.css';
+import '../styles/Spinner.css';
 const Spinner = () => {
 	return (
 		<div className='flex justify-center items-center mt-10 font-bold text-4xl'>
